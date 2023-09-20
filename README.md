@@ -1,4 +1,4 @@
-### Richard Kriheli
+# Richard Kriheli
 ###### Quality Assurance Professional  //  Portland, Oregon  //  kriheli.com  //  richard@kriheli.com //  718-813-3074
 
 
