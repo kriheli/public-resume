@@ -3,9 +3,11 @@
 
 
 ##### PROFESSIONAL SUMMARY
+---------
 Pragmatic QA professional with 20+ years experience in tech engineering, delivering high quality products that meet budgeting and scheduling commitments. Adaptable and solutions driven with a pulse on emerging technologies and trends. Earnest in approach and sensible in practice. Fueled by really good espresso.
 
 ##### RECENT EXPERIENCE
+---------
 ###### 2023-PRESENT Coding Temple QA Subject Matter Expert / Instructor (Contract)
 » Help students troubleshoot and answer technical questions on self-paced courses.
 » Review student assignments and help administration of grades and feedback.
@@ -64,9 +66,11 @@ Pragmatic QA professional with 20+ years experience in tech engineering, deliver
 » Mentored interns on Quality Assurance methodologies, processes and best practices
 
 ##### SKILLS
+---------
 Quality Assurance, Functional Testing, Regression Testing, UI Testing, API Testing, Test Automation, Automated Mobile Application Testing, TDD, Business Systems Analysis, Mobile Device Testing, ADA Compliance, WCAG Compliance, Agile / Scrum and Lean Development Methodologies, BDD, Management, People Management, Peer Mentoring, Process Implementation, Requirements Analysis, Career Development, Privacy Testing, Security Testing, Technical Project Management, Release Management, Process Change Management, Continuous Integration via Jenkins, TeamCity, Bitrise, App Center, Visual Design, Branding & Identity Design, Responsive Web Design 
 
 ##### TOOLS AND FRAMEWORKS
+---------
 Xcode, Android Studio, Visual Studio Code, IntelliJ Idea, PyCharm, Eclipse, Nova, Atom
 XCTest, XCUITest, Cypress, Selenium, Appium, Nightwatch, Playwright
 Apache JMeter, Charles, Firebug, Postman, Browserstack, Cucumber, Google Lighthouse
@@ -76,12 +80,15 @@ Figma, Adobe Photoshop / Illustrator, Microsoft Word / Excel / Powerpoint, Apple
 
 
 ##### LANGUAGES
+---------
 HTML, CSS, Javascript, Swift, Python (intermediate), Java (beginner)
 
 ##### OPERATING SYSTEMS
+---------
 Mac OS, Apple iOS - iPad OS - TV OS - Watch OS, Google Android, Windows
 
 ##### AWARDS / HONORS
+---------
 2023-Present Coding Temple Advisory Board 
 2020-Present PIE Incubator Mentor
 2019 W³ Awards - Gold General Website
@@ -97,11 +104,13 @@ Mac OS, Apple iOS - iPad OS - TV OS - Watch OS, Google Android, Windows
 2011 4As Jay Chiat Award
 
 ##### CONFERENCES / WORKSHOPS
+---------
 2016 R/GA Tech Summit Speaker
 2013 HUGE Inc Workshop Speaker
 2012 STP Conference - Speaker
 2009 Schematic Tech Summit Speaker
 
 ##### EDUCATION
+---------
 Syracuse University B.A., English - Creative Writing 
 School of Visual Arts Certification in Web Design, Continuing Education
