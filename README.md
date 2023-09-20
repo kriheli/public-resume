@@ -1,16 +1,17 @@
-# public-resume
+### Richard Kriheli
+###### Quality Assurance Professional  //  Portland, Oregon  //  kriheli.com  //  richard@kriheli.com //  718-813-3074
 
 
 ##### PROFESSIONAL SUMMARY
 Pragmatic QA professional with 20+ years experience in tech engineering, delivering high quality products that meet budgeting and scheduling commitments. Adaptable and solutions driven with a pulse on emerging technologies and trends. Earnest in approach and sensible in practice. Fueled by really good espresso.
 
 ##### RECENT EXPERIENCE
-2023-PRESENT Coding Temple QA Subject Matter Expert / Instructor (Contract)
+###### 2023-PRESENT Coding Temple QA Subject Matter Expert / Instructor (Contract)
 » Help students troubleshoot and answer technical questions on self-paced courses.
 » Review student assignments and help administration of grades and feedback.
 » Advise leadership on the direction and content of the Quality Assurance learning track.
 
-2018-2023 Work & Co. Associate QA Director
+###### 2018-2023 Work & Co. Associate QA Director
 » Mentored & influenced QA team in Portland & remote offices in NYC, Belgrade and São Paulo.
 » Lead manual & automated (Cypress, Appium) testing on consumer products & applications.
 » Wrote all formal documentation deliverables (QA Briefs, Test Plans, Test Cases).
@@ -24,12 +25,12 @@ Pragmatic QA professional with 20+ years experience in tech engineering, deliver
 » Worked closely with the talent team to recruit, interview, identify and acquire candidates. 
 » Carried out the technical vision for developing test tools and strategies with the QA group.
 
-2018-2020 Netflix (via DockYard, Inc) Remote SQA Engineering Lead
+###### 2018-2020 Netflix (via DockYard, Inc) Remote SQA Engineering Lead
 » Help test and manage software health initiatives with Netflix studio production applications.
 » Liaise with stakeholders at Netflix in Los Gatos, CA & Los Angeles, CA.
 » Lead a distributed, remote team of 3 manual testers & 1 automation engineer on all tasks.
 
-2017-2018 Freelance QA Consultant
+###### 2017-2018 Freelance QA Consultant
 » Code and Theory - New York, NY - QA Lead Consultant
 » Collector IQ - New York, NY - QA Lead Consultant
 » AKQA - Portland, OR - QA Lead Automation Consultant 
@@ -39,7 +40,7 @@ Pragmatic QA professional with 20+ years experience in tech engineering, deliver
 » Halo Automotive - Portland, OR - Mobile Technical Product Management / QA Consultant
 » IM Your Doc - Seattle, WA - Mobile QA Consultant
 
-2010-2016 R/GA  Director, Quality Assurance 
+###### 2010-2016 R/GA  Director, Quality Assurance 
 » Managed, mentored and guided QA leads & SDET automation engineers across global offices.
 » Led testing (manual & automation) efforts on consumer-facing accounts and products.
 » Built and grew regional department discipline in U.S. / Asia-Pacific offices.
@@ -54,7 +55,7 @@ Pragmatic QA professional with 20+ years experience in tech engineering, deliver
 » Developed and maintained resource management calendar and calculator for project managers
 » Recruited, interviewed and identified talent for the QA and Technology departments
 
-2006-2010  Schematic  Manager, Quality Assurance
+###### 2006-2010  Schematic  Manager, Quality Assurance
 » Reported to Director of Technology while managing staff of QA analysts & testers
 » Initiated procedure within department and other regional agency offices
 » Authored all formal, client-facing documentation including Test Plans & Test Cases
