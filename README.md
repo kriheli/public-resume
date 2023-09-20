@@ -2,11 +2,11 @@
 ###### Quality Assurance Professional  //  Portland, Oregon  //  kriheli.com  //  richard@kriheli.com //  718-813-3074
 
 
-##### PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 ---------
 Pragmatic QA professional with 20+ years experience in tech engineering, delivering high quality products that meet budgeting and scheduling commitments. Adaptable and solutions driven with a pulse on emerging technologies and trends. Earnest in approach and sensible in practice. Fueled by really good espresso.
 
-##### RECENT EXPERIENCE
+## RECENT EXPERIENCE
 ---------
 ###### 2023-PRESENT Coding Temple QA Subject Matter Expert / Instructor (Contract)
 » Help students troubleshoot and answer technical questions on self-paced courses.
@@ -65,11 +65,11 @@ Pragmatic QA professional with 20+ years experience in tech engineering, deliver
 » Conducted hands on testing of web and mobile applications in a lead capacity
 » Mentored interns on Quality Assurance methodologies, processes and best practices
 
-##### SKILLS
+## SKILLS
 ---------
 Quality Assurance, Functional Testing, Regression Testing, UI Testing, API Testing, Test Automation, Automated Mobile Application Testing, TDD, Business Systems Analysis, Mobile Device Testing, ADA Compliance, WCAG Compliance, Agile / Scrum and Lean Development Methodologies, BDD, Management, People Management, Peer Mentoring, Process Implementation, Requirements Analysis, Career Development, Privacy Testing, Security Testing, Technical Project Management, Release Management, Process Change Management, Continuous Integration via Jenkins, TeamCity, Bitrise, App Center, Visual Design, Branding & Identity Design, Responsive Web Design 
 
-##### TOOLS AND FRAMEWORKS
+## TOOLS AND FRAMEWORKS
 ---------
 Xcode, Android Studio, Visual Studio Code, IntelliJ Idea, PyCharm, Eclipse, Nova, Atom
 XCTest, XCUITest, Cypress, Selenium, Appium, Nightwatch, Playwright
@@ -79,11 +79,11 @@ Adobe CQ5/AEM, Drupal, Wordpress, Heroku, Bitbucket, AWS, Azure, Google Cloud
 Figma, Adobe Photoshop / Illustrator, Microsoft Word / Excel / Powerpoint, Apple Keynote 
 
 
-##### LANGUAGES
+## LANGUAGES
 ---------
 HTML, CSS, Javascript, Swift, Python (intermediate), Java (beginner)
 
-##### OPERATING SYSTEMS
+## OPERATING SYSTEMS
 ---------
 Mac OS, Apple iOS - iPad OS - TV OS - Watch OS, Google Android, Windows
 
